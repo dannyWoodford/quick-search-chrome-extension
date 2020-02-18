@@ -1,6 +1,6 @@
-# quick-search-chrome-extention
+# quick-search-chrome-extension
 
-simple chrome extention so you can highlight text and search for it with a single keypress. 
+simple chrome extension so you can highlight text and search for it with a single keypress. 
   
   - y to search on YouTube
 
