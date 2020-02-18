@@ -14,7 +14,7 @@ simple chrome extention so you can highlight text and search for it with a singl
   Next flip the **Developer mode** toggle in the top right corner. Next click on **Load Unpacked** and load files, assuming you've forked it already.
   
   
-  
+ ## also
   
   If you want to make any changes or customize it to your needs your probably wanting to look in **src/inject/inject.js**
   
