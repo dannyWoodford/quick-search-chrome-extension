@@ -30,3 +30,7 @@ function getSelectionText() {
 
 	})
 
+
+
+
+	// you should be able to copy any thing and macro it to a command like my cover letter
